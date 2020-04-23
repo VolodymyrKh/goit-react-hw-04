@@ -1,0 +1,11 @@
+.AddInfoSection{
+    background-color: #e9f3f5;
+    border: 2px  rgba(0,0,0,0.12) solid;
+    border-radius: 3px;
+    padding: 10px 0;
+   
+}
+
+.List{
+    margin-bottom: 0;
+}
